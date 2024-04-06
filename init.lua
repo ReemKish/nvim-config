@@ -32,5 +32,6 @@ spec "user.whichkey"
 
 -- Extras
 spec "user.extras.cellular-automaton"
+spec "user.extras.copilot"
 
 require "user.lazy"
