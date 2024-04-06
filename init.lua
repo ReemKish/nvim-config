@@ -3,11 +3,14 @@ require "user.options"
 require "user.keymaps"
 require "user.autocmds"
 
+-- Colorscheme
+spec "user.colorscheme"
+
+-- Essenital plugins
 spec "user.alpha"
 spec "user.autopairs"
 spec "user.breadcrumbs"
 spec "user.cmp"
-spec "user.colorscheme"
 spec "user.comment"
 spec "user.devicons"
 spec "user.gitsigns"
@@ -30,7 +33,7 @@ spec "user.toggleterm"
 spec "user.treesitter"
 spec "user.whichkey"
 
--- Extras
+-- Extra plugins
 spec "user.extras.oil"
 spec "user.extras.eyeliner"
 spec "user.extras.cellular-automaton"
