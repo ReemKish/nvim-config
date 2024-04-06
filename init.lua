@@ -27,4 +27,8 @@ spec "user.alpha"
 spec "user.project"
 spec "user.indentline"
 spec "user.toggleterm"
+
+-- Extras
+spec "user.extras.cellular-automaton"
+
 require "user.lazy"
