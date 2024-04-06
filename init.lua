@@ -31,6 +31,8 @@ spec "user.treesitter"
 spec "user.whichkey"
 
 -- Extras
+spec "user.extras.oil"
+spec "user.extras.eyeliner"
 spec "user.extras.cellular-automaton"
 spec "user.extras.copilot"
 
