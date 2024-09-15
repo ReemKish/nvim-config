@@ -38,5 +38,6 @@ spec "user.extras.oil"
 spec "user.extras.eyeliner"
 spec "user.extras.cellular-automaton"
 spec "user.extras.copilot"
+spec "user.extras.navbuddy"
 
 require "user.lazy"
