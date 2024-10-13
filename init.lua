@@ -1,0 +1,6 @@
+require "config.setup"
+require "config.settings"
+require "config.keymaps"
+require "config.leadermaps"
+require "config.autocmds"
+require "config.lazy"
