@@ -6,7 +6,8 @@ S1.config = function()
     'bash',   'toml',   'cpp',  'css', 'python',
     'yaml',   'rust',   'vim',  'tsx', 'vimdoc',
     'json',   'html',   'lua',  'rst', 'regex',
-    'javascript', 'markdown', 'markdown_inline', 'c',
+    'make',   'cmake',  'javascript',  'markdown',
+    'markdown_inline',  'c',
   }
 
   require('nvim-treesitter.configs').setup({
